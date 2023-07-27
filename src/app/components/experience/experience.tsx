@@ -6,10 +6,10 @@ import"./load-image.scss"
 export function Experience() {
     return(
         <div className='experience'>
-          <SectionTitle text={"Experiencia"}/>
-          <p>WS Work
-            Ajudei a dar manutenção em um app ja exitente em java fazer novas funcinalidades e trabalhei em um 
-            projeto novo em flutter
+          <SectionTitle text={"Experiência"}/>
+          <p>WS Work<br/>
+            ajudei a dar manutenção, fazer novas funcinalidades em um app que já estava na PlayStore e trabalhei em um 
+            projeto novo em Flutter.
           </p>
           <div className='experience-time'>
             <a>

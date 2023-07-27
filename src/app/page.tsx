@@ -23,7 +23,7 @@ export default function Home() {
       <div className='projeto1'>
         <Info 
         title={"Greengrocer"} 
-        description={"Aplicativo de verduras e frutas online desenvolvido durante o curso na Udemy"} 
+        description={"Aplicativo de verduras e frutas online desenvolvido durante o curso na Udemy."} 
         tecnologia={"Getx, dio, badges, animation, binding "} 
         dependencia={"Getx"} 
         language={"Flutter"}/>
@@ -32,7 +32,7 @@ export default function Home() {
       <div className='projeto2'>
         <Info 
           title={"Mavel App"} 
-          description={"Mostra todos personagens da Marvel, possibilitando a pesquisa por algum personagem e ver os quardrinhos "} 
+          description={"Mostra todos personagens da Marvel, possibilitando a pesquisa por algum personagem e ver os quadrinhos."} 
           tecnologia={"Retrofit, Coroutines, Room, LiveData, RecycleView"} 
           dependencia={"Dagger-Hilt"} 
           language={"Kotlin"}/>
@@ -41,7 +41,7 @@ export default function Home() {
       <div className='projeto3'>
         <Info 
           title={"To_Do_list"} 
-          description={"Aplicativo de atividades feito durante o boot campDioInovation"} 
+          description={"Aplicativo de atividades feito durante o boot camp Dio Inovation."} 
           tecnologia={"Coroutines, Room, LiveData, RecycleView"} 
           dependencia={"koin"} 
           language={"Kotlin"}/>
