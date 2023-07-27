@@ -1,0 +1,25 @@
+.Project {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 100%;
+    grid-area: description;
+    gap: 24px;
+    max-width: 500px;
+    .project-info {
+        display: flex;
+        flex-direction: column;
+        gap: 24;
+        width: 100%;
+        align-items: flex-start;
+    }
+
+    p {
+        color: var(--text-secondary);
+    }
+
+    h3 {
+
+        color: var(--text-primary);
+    }
+}
